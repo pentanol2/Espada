@@ -12,9 +12,8 @@ from sklearn.metrics import accuracy_score
 
 '''
 Spam detector using Logitic Regression
-by 
-YOUSSEF AIDANI
-Year 2019
+By :YOUSSEF AIDANI
+Year: 2019
 
 
 '''
