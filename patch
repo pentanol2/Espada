@@ -1,0 +1,20 @@
+commit 0c3163272a2e33d4ede1760e35397bc7149b5333
+Author: pentanol2 <aidani8youssef@gmail.com>
+Date:   Tue Dec 28 11:21:32 2021 +0300
+
+    requirements and readme file added.
+
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+index 0000000..73f69e0
+--- /dev/null
++++ b/.idea/.gitignore
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
++# Editor-based HTTP Client requests
++/httpRequests/
